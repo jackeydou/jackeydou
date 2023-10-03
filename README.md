@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![image](https://github.com/jackeydou/jackeydou/assets/95235746/590c2f62-5c34-4f88-b713-abb99cbb57d1)
+<img src="https://media0.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif?cid=ecf05e47kebot2ctkzlq2nxsebwrlzvvi6p2e27bfya0u5tu&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 ---
 
