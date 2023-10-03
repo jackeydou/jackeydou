@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jackeydou/jackeydou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/jackeydou/jackeydou/assets/95235746/590c2f62-5c34-4f88-b713-abb99cbb57d1)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🔭 I’m currently working as a software engineer.
+- 🌱 I’m currently contributing to the web development community.
+- 📫 [Reach](mailto://jackey.dou@gmail.com) me. If you have any brilliant ideas that I can help, please contact me directly!
+- 👑 Skills:  <img height="16" width="16" src="https://cdn.simpleicons.org/javascript" /><img height="16" width="16" src="https://cdn.simpleicons.org/typescript" /><img height="16" width="16" src="https://cdn.simpleicons.org/react" /><img height="16" width="16" src="https://cdn.simpleicons.org/webpack" /><img height="16" width="16" src="https://cdn.simpleicons.org/esbuild" /><img height="16" width="16" src="https://cdn.simpleicons.org/solid" /><img height="16" width="16" src="https://cdn.simpleicons.org/rust" /><img height="16" width="16" src="https://cdn.simpleicons.org/nodedotjs" /><img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode" />
+- 😄 MBTI: INTJ.
+- ⚡ Interests: 👨🏻‍💻Coding / 🧗Climbing / 🏋️GYM / 🏅Spartan.
+
+<a href="https://github.com/jackeydou">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jackeydou" />
+</a>
+<a href="https://github.com/jackeydou">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackeydou&layout=compact&langs_count=8&card_width=320" />
+</a>
+
