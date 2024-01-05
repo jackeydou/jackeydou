@@ -7,10 +7,10 @@
 ## About me
 
 - 🔭 I’m currently working as a software engineer.
-- 🌱 I’m currently contributing to the web development community.
+- 🌱 I’m currently doing some interesting side projects by using web techs.
 - 📫 [Reach](mailto://jackey.dou@gmail.com) me. If you have any brilliant ideas that I can help, please contact me directly!
 - 👑 Skills:  <img height="16" width="16" src="https://cdn.simpleicons.org/javascript" /><img height="16" width="16" src="https://cdn.simpleicons.org/typescript" /><img height="16" width="16" src="https://cdn.simpleicons.org/react" /><img height="16" width="16" src="https://cdn.simpleicons.org/webpack" /><img height="16" width="16" src="https://cdn.simpleicons.org/esbuild" /><img height="16" width="16" src="https://cdn.simpleicons.org/solid" /><img height="16" width="16" src="https://cdn.simpleicons.org/rust" /><img height="16" width="16" src="https://cdn.simpleicons.org/nodedotjs" /><img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode" />
-- 😄 MBTI: INTJ.
+- 😄 MBTI: ISTJ.
 - ⚡ Interests: 👨🏻‍💻Coding / 🧗Climbing / 🏋️GYM / 🏅Spartan.
 
 <a href="https://github.com/jackeydou">
